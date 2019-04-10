@@ -10,7 +10,7 @@ Even as an engineer student, it is good to enrich your computer science skills a
 * How to create a container (docker) or VM (vmware or virtualbox) environment.
 * Common data structure & algorithms
 
-## Git
+## Git (for source control management)
 
 There are many tutorials and teaching videos, prepare yourself to have a working knowledge of git and its core concepts such as commit, branch, merge, team workflow (pull request), resolving conflict etc.
 
@@ -18,7 +18,7 @@ There are many tutorials and teaching videos, prepare yourself to have a working
 * [Git branching and merging (30 min)](https://www.youtube.com/watch?v=FyAAIHHClqI)
 * [Git advanced tutorial (60 min)](https://www.youtube.com/watch?v=0SJCYPsef54)
 
-## Python and its Ecosystem
+## Python and its ecosystem (for general programming and data analysis)
 
 You need to have handson experience on install and manage Python environment using `conda` or `pip`; you need to know how to package and distrubute a pure Python module; and you need to know how to integrate C/C++ into Python.
 
@@ -34,5 +34,5 @@ You need to have handson experience on install and manage Python environment usi
 
 ## Image Processing
 
-You should at least know about OpenCV and dlib, or both.
+You should at least know about [OpenCV](http://www.opencv.org) and [dlib](http://dlib.net/), or both.
 
