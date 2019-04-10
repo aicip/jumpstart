@@ -1,10 +1,14 @@
 # Jumpstart
 Essentials to know as AICIPers
 
-
 ## General system and software knowledge
 
-* 
+Even as an engineer student, it is good to enrich your computer science skills and intuitions, which may include:
+
+* How to write readable and maintainable code.
+* How to admin (setup service, trouble shoot) a Linux box
+* How to create a container (docker) or VM (vmware or virtualbox) environment.
+* Common data structure & algorithms
 
 ## Git
 
