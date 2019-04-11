@@ -3,12 +3,16 @@ Essentials to know as AICIPers
 
 ## General system and software knowledge
 
-Even as an engineer student, it is good to enrich your computer science skills and intuitions, which may include:
+Even as an engineer student, it is necessary to sharpen your computer science skills in both breadth and depth, which may include:
 
-* How to write readable and maintainable code.
-* How to admin (setup service, trouble shoot) a Linux box
-* How to create a container (docker) or VM (vmware or virtualbox) environment.
-* Common data structure & algorithms
+* Learn to write readable and maintainable code.
+* Learn to admin (setup service, trouble shoot) on a Linux box.
+* Learn to setup and manage a container (docker) or VM (vmware or virtualbox) environment.
+* Learn common data structure & algorithms
+* Learn and master at least one code editor: be it vim, vs code, or sublime.
+* Learn Latex typesetting
+* Learn to give an presentation.
+
 
 ## Git (for source control management)
 
