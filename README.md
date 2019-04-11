@@ -20,7 +20,7 @@ There are many tutorials and teaching videos, prepare yourself to have a working
 
 ## Python and its ecosystem (for general programming and data analysis)
 
-You need to have handson experience on install and manage Python environment using `conda` or `pip`; you need to know how to package and distrubute a pure Python module; and you need to know how to integrate C/C++ into Python.
+You need to have hands-on experience on how to install and manage Python environment using `conda` or `pip`; you need to know how to package and distribute a pure Python module; and you need to know how to integrate C/C++ into Python.
 
 * [Python tutorial (6.0 hr)](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - you can skip Django project if you want, which is not really required.
 
