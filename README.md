@@ -7,16 +7,16 @@ Even as an engineer student, it is necessary to sharpen your computer science sk
 
 * Learn to write readable and maintainable code.
 * Learn to admin (setup service, trouble shoot) on a Linux box.
-* Learn to setup and manage a container (docker) or VM (vmware or virtualbox) environment.
+* Learn to set up and manage a container (docker) or VM (vmware or virtualbox) environment.
 * Learn common data structure & algorithms
 * Learn and master at least one code editor: be it vim, vs code, or sublime.
 * Learn Latex typesetting
-* Learn to give an presentation.
+* Learn to give a presentation.
 
 
 ## Git (for source control management)
 
-There are many tutorials and teaching videos, prepare yourself to have a working knowledge of git and its core concepts such as commit, branch, merge, team workflow (pull request), resolving conflict etc.
+There are many tutorials and teaching videos, prepare yourself to have a working knowledge of git and its core concepts such as commit, branch, merge, team workflow (pull request), resolving conflict0 etc.
 
 * [Git & GitHub Crash Course For Beginners (30 min)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Git branching and merging (30 min)](https://www.youtube.com/watch?v=FyAAIHHClqI)
@@ -38,5 +38,5 @@ You need to have hands-on experience on how to install and manage Python environ
 
 ## Image Processing
 
-You should at least know about [OpenCV](http://www.opencv.org) and [dlib](http://dlib.net/), or both.
+You should at least know about [OpenCV] (http://www.opencv.org) and [dlib](http://dlib.net/), or both.
 
